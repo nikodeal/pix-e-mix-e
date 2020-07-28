@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap'); 
+
+.nav-link{
+    text-decoration: none;
+}
+.header-h{
+    text-align: center;
+    background-color: black;
+    color: rgb(146, 62, 62);
+    font-family: 'Kaushan Script', cursive;
+    font-size: 3rem;
+    margin-top: -.1rem;
+}
+.header-h:hover{
+    color: white;
+}
